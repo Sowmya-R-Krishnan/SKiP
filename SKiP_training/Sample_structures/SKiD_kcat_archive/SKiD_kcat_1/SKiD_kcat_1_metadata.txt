@@ -1,0 +1,14 @@
+-------------------------Version 1--------------------------
+Entry ID: SKiD_kcat_1
+EC number: 1.1.1.1
+UniProtKB ID: P00327
+Source organism: Equus caballus
+SKiD active site category: Substrate+Cofactor
+Substrate name: 4-amino-1-butanol
+Substrate SMILES: NCCCCO
+Reaction pH: 9
+Reaction temperature: 25°C
+Mutation (if present): -----
+kcat (pkcat) value: 380.0 (2.58)
+References: {'297': 'Huang, L.,Sayoga, G.,Hollmann, F.,Kara, S., Horse liver alcohol dehydrogenase-catalyzed oxidative lactamization of amino alcohols, ACS Catal., 2018, 8680-8684, 8'}
+------------------------------------------------------------
