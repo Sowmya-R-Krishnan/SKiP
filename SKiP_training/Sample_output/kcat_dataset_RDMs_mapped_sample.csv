@@ -1,0 +1,12 @@
+Entry_ID	EC_number	PDB_ID	pH	Substrate_SMILES	Mol_ID	MetaCyc_reaction_ID	RDM_list
+SKiD_kcat_1	1.1.1.1	2JHF	9.0	NCCCCO	mol_1	RXN-12595	C1b-C4a:H+O1a-*+O4a:C1b+H-C1b+H||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_2	1.1.1.1	4W6Z	8.0	C(C)O	mol_2	ALCOHOL-DEHYDROG-RXN	C1b-C4a:H+O1a-*+O4a:C1a+H-C1a+H||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_3	1.1.1.1	4RQT	7.5	C(C)O	mol_2	ALCOHOL-DEHYDROG-RXN	C1b-C4a:H+O1a-*+O4a:C1a+H-C1a+H||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_18	1.1.1.1	1R37	10.5	C(C(C)C)=O	mol_16	RXN-7657	C1b-C4a:H+O1a-*+O4a:C1c+H-C1c+H||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_5	1.1.1.1	1R37	10.5	C[C@H](CC)O	mol_4	RXN-22516	C1c-C5a:H+O1a-*+O5a:C1a+C1b-C1a+C1b||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_17	1.1.1.1	1R37	10.5	C[C@@H](CC)O	mol_15	RXN-22516	C1c-C5a:H+O1a-*+O5a:C1a+C1b-C1a+C1b||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_16	1.1.1.1	1R37	10.5	C(CCCC)O	mol_14	HEXANOL-RXN	C1b-C4a:H+O1a-*+O4a:C1b+H-C1b+H||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_8	1.1.1.1	1R37	10.5	C(CCCCCC)O	mol_7	HEXANOL-RXN	C1b-C4a:H+O1a-*+O4a:C1b+H-C1b+H||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_48	1.1.1.1	1R37	10.5	C(CCC)=O	mol_33	ENZRXN-201-RXN	C1b-C4a:H+O1a-*+O4a:C1b+H-C1b+H||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_14	1.1.1.1	1R37	10.5	COC1=CC=C(CO)C=C1	mol_12	RXN-8581	C1b-C4a:H+O1a-*+O4a:C8y+H-C8y+H||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
+SKiD_kcat_7	1.1.1.1	1R37	10.5	C[C@@H](CCC)O	mol_6	RXN-14686	C1c-C5a:H+O1a-*+O5a:C1a+C1b-C1a+C1b||C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H||N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y
