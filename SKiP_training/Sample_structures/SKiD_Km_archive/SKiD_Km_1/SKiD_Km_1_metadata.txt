@@ -1,0 +1,14 @@
+-------------------------Version 1--------------------------
+Entry ID: SKiD_Km_1
+EC number: 1.1.1.1
+UniProtKB ID: P00326
+Source organism: Homo sapiens
+SKiD active site category: Substrate+Cofactor
+Substrate name: 1-formyl-8-methylpyrene
+Substrate SMILES: C(=O)C1=CC=C2C=CC3=CC=C(C4=CC=C1C2=C34)C
+Reaction pH: 7.0 (SKiD default setting)
+Reaction temperature: 21-23°C
+Mutation (if present): -----
+Km (pKm) value: 0.00024 (-3.62)
+References: {'214': 'Kollock, R.,Frank, H.,Seidel, A.,Meinl, W.,Glatt, H., Oxidation of alcohols and reduction of aldehydes derived from methyl- and dimethylpyrenes by cDNA-expressed human alcohol dehydrogenases, Toxicology, 2008, 65-75, 245, PMID: 18242813'}
+------------------------------------------------------------
